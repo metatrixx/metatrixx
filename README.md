@@ -14,6 +14,6 @@
 .image2 {
   position: absolute;
   top: 5px;
-  left: 5px;
+  left: 1px;
   border: 1px solid #000000;
 }
