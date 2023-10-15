@@ -12,9 +12,9 @@
   left: 0;
 }
 
-.image2 {
+.scrobbles {
   position: absolute;
-  top: 5px;
+  top: 50px;
   left: 5px;
   border: 1px solid #000000;
 }
