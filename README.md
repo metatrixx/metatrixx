@@ -1,7 +1,7 @@
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=eduard_huetter&count=1)
 
 <div class="parent">
-      <img class="image2" src="!https://github.com/metatrixx/metatrixx/assets/147994672/3200b5cc-9603-4eb9-8752-3907fbda4fab"
+      <img class="scrobbles" src=(https://lastfm-recently-played.vercel.app/api?user=eduard_huetter&count=1)
 
  />
 </div>
