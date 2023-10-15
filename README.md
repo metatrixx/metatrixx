@@ -1,7 +1,8 @@
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=eduard_huetter&count=1)
 
 <div class="parent">
-      <img class="image2" src="https://github.com/metatrixx/metatrixx/assets/147994672/d81761f0-233e-4504-a0bd-343a0bc6ed9f"
+      <img class="image2" src="!https://github.com/metatrixx/metatrixx/assets/147994672/3200b5cc-9603-4eb9-8752-3907fbda4fab"
+
  />
 </div>
 
