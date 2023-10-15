@@ -13,7 +13,7 @@
 
 .image2 {
   position: absolute;
-  top: 5px;
+  top: 2px;
   left: 1px;
   border: 1px solid #000000;
 }
